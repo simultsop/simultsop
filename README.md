@@ -5,7 +5,7 @@ Highly motivated Senior Software Developer with a strong foundation in object-or
 ## 🚀 About Me
 
 - 🏢 **Current Role:** Fullstack Web Developer at SML (Redlham, Austria)
-- 📍 **Location:** Wels, Austria
+- 📍 **Location:** Austria
 - 🌍 **Background:** Extensive experience in Industry 4.0 solutions, SaaS, CRM, network/content management, and MVP/product development
 - 🎓 **Education:** BSc in Computer Sciences, University of Prizren
 - 🌱 **Volunteering:** Makerspace Innovation Center, Prizren ([Medium Article](https://medium.com/@simultsop/makeathoni-në-makerspace-të-prizrenit-78a497cedb15))
