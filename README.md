@@ -12,8 +12,8 @@ Highly motivated Senior Software Developer with a strong foundation in object-or
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** Vue.js (prefer script setup, lang TS), i18n with flat JSON keys, Pinia (defineStore namespaces), HTML5, CSS3
-- **Backend:** Node.js, Nest.js, PHP (Laravel), GraphQL
+- **Frontend:** TS / Vue eco-system
+- **Backend:** TS / Node.js, Nest.js, GraphQL
 - **Databases:** PostgreSQL, MongoDB, InfluxDB
 - **DevOps:** Docker, Git
 - **Testing:** Jest, Vitest, Playwright, TDD
