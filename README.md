@@ -4,9 +4,9 @@ Highly motivated Senior Software Developer with a strong foundation in object-or
 
 ## 🚀 About Me
 
-- 🏢 **Current Role:** Fullstack Web Developer at SML (Redlham, Austria)
+- 🏢 **Current Role:** Fullstack Web Developer at sml.at
 - 📍 **Location:** Austria
-- 🌍 **Background:** Extensive experience in Industry 4.0 solutions, SaaS, CRM, network/content management, and MVP/product development
+- 🌍 **Background:** Extensive experience in Industry 4.0 solutions, SaaS, CRM, network/content management
 - 🎓 **Education:** BSc in Computer Sciences, University of Prizren
 - 🌱 **Volunteering:** Makerspace Innovation Center, Prizren ([Medium Article](https://medium.com/@simultsop/makeathoni-në-makerspace-të-prizrenit-78a497cedb15))
 
@@ -25,14 +25,9 @@ Highly motivated Senior Software Developer with a strong foundation in object-or
 - Shared findings at Makerspace Innovation Center Prizren ([Medium Article](https://medium.com/@simultsop/makeathoni-në-makerspace-të-prizrenit-78a497cedb15))
 - Regularly document and share knowledge with developer communities
 
-
-## 📈 GitHub Stats
-
-![Mentor's GitHub stats](https://github-readme-stats.vercel.app/api?username=simultsop&show_icons=true&hide_title=true&theme=radical)
-
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “codegen is not the end, it is high-level language compilation” – unknown
 
 ---
 
