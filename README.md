@@ -11,7 +11,7 @@ Highly motivated Senior Software Developer with a strong foundation in object-or
 - 🌱 **Volunteering:** Makerspace Innovation Center, Prizren ([Medium Article](https://medium.com/@simultsop/makeathoni-në-makerspace-të-prizrenit-78a497cedb15))
 
 ## 🛠️ Tech Stack
-
+- **AI:** Github Copilot, GeminiCli, Local-llms
 - **Frontend:** TS / Vue eco-system
 - **Backend:** TS / Node.js, Nest.js, GraphQL
 - **Databases:** PostgreSQL, MongoDB, InfluxDB
