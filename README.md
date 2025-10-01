@@ -26,9 +26,7 @@ Highly motivated Senior Software Developer with a strong foundation in object-or
 - Regularly document and share knowledge with developer communities
 
 ---
-
-> “codegen is not the end, it is high-level language compilation” – unknown
-
+> “simplicity is the ultimate sophistication.” – Leonardo da Vinci
 ---
 
 Thanks for visiting my profile! Feel free to connect or reach out for collaboration, mentoring, or just to say hi. 🚀
